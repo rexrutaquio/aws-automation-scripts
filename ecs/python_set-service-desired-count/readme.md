@@ -46,13 +46,13 @@ Script Workflow
 *****  Example Usage: 
 
 $ ./update_ecs_services.sh
-Enter the ECS cluster name: TestCluster
-Enter the desired count for the services: 3
-Updating service service1 to desired count 3...
-Successfully updated service service1.
-Updating service service2 to desired count 3...
-Successfully updated service service2.
-All services in the cluster TestCluster have been updated to desired count 3.
+ Enter the ECS cluster name: TestCluster
+ Enter the desired count for the services: 3
+ Updating service service1 to desired count 3...
+ Successfully updated service service1.
+ Updating service service2 to desired count 3...
+ Successfully updated service service2.
+ All services in the cluster TestCluster have been updated to desired count 3.
 
 
 Error Handling: 
